@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "63c1646805edd17dd4f5ab0d"
+  },
+  "title": "A Mi Me Gusta",
+  "year": 1993,
+  "artist": "los del rio",
+  "songs": [
+    {
+      "$oid": "63c148c5b9f57d8a14036cfc"
+    },
+    {
+      "$oid": "63c15f1e28bfe6f5ee825cfa"
+    }
+  ],
+  "imgCover": "https://upload.wikimedia.org/wikipedia/en/b/ba/A_m%C3%AD_me_gusta.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c164ea05edd17dd4f5ab0f"
+  },
+  "title": "Buena Vista Social Club",
+  "year": 1992,
+  "artist": "Los Viejitos",
+  "songs": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2bbde85e83d89f63b6987"
+  },
+  "title": "Boys Don't",
+  "year": 1980,
+  "artist": "The Cure",
+  "songs": [
+    {
+      "$oid": "63c29f4d7ddf01e2a8632939"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a863293a"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a863293b"
+    }
+  ],
+  "imgCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWQwALqmFvhfFjZqKAzBQjau0M710NPpdxA&usqp=CAU",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2bbde85e83d89f63b6988"
+  },
+  "title": "Persona Ideal",
+  "year": 2005,
+  "artist": "Los Adolecentes",
+  "songs": [
+    {
+      "$oid": "63c29f4d7ddf01e2a863293c"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a863293d"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a863293e"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2bbde85e83d89f63b6989"
+  },
+  "title": "Amar es Combatir",
+  "year": 2006,
+  "artist": "Mana",
+  "songs": [
+    {
+      "$oid": "63c29f4d7ddf01e2a863293f"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a8632940"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a8632941"
+    }
+  ],
+  "imgCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYmlzIOwPhh95l0ii7lg1glesKMaFFmUtCQ&usqp=CAU",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2bbde85e83d89f63b698a"
+  },
+  "title": "Take Off Your Pants and Jacket",
+  "year": 2001,
+  "artist": "Blink-18",
+  "songs": [
+    {
+      "$oid": "63c29f4d7ddf01e2a8632942"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a8632943"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a8632944"
+    }
+  ],
+  "imgCover": "https://cms.kerrang.com/images/blink-182-Take-Off-Your-Pants-And-Jacket.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2bbde85e83d89f63b698b"
+  },
+  "title": "Californications",
+  "year": 1997,
+  "artist": "The Red Hot Chili Peppers",
+  "songs": [
+    {
+      "$oid": "63c29f4d7ddf01e2a8632945"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a8632946"
+    },
+    {
+      "$oid": "63c29f4d7ddf01e2a8632947"
+    }
+  ],
+  "imgCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSncviJzG7jNkhjyNPQ3GEgEieemqKyo2hRg&usqp=CAU",
+  "__v": 0
+}]

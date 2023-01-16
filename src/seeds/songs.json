@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "63c148c5b9f57d8a14036cfc"
+  },
+  "title": "la macarena",
+  "artist": "los del rio",
+  "style": "pop",
+  "year": 1993,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c15f1e28bfe6f5ee825cfa"
+  },
+  "title": "Mi gitana",
+  "artist": "los del rio",
+  "style": "pop",
+  "year": 2008,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632939"
+  },
+  "title": "Boys Don't",
+  "artist": "The Cure",
+  "style": "Post-punk, New Wave",
+  "year": 1980,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a863293a"
+  },
+  "title": "Plastic Passion",
+  "artist": "The Cure",
+  "style": "Post-punk, New Wave",
+  "year": 1980,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a863293b"
+  },
+  "title": "Accuracy",
+  "artist": "The Cure",
+  "style": "Post-punk, New Wave",
+  "year": 1980,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a863293c"
+  },
+  "title": "Persona ideal",
+  "artist": "Los Adolecentes",
+  "style": "Salsa",
+  "year": 2005,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a863293d"
+  },
+  "title": "Fanatico",
+  "artist": "Los Adolecentes",
+  "style": "Salsa",
+  "year": 2005,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a863293e"
+  },
+  "title": "Clase social",
+  "artist": "Los Adolecentes",
+  "style": "Salsa",
+  "year": 2005,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a863293f"
+  },
+  "title": "Manda Una Señal",
+  "artist": "Mana",
+  "style": "Rock, Pop rock, Rock latino, Rock en español, Dub",
+  "year": 2006,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632940"
+  },
+  "title": "Ojala Pudiera Borrarte",
+  "artist": "Mana",
+  "style": "Rock, Pop rock, Rock latino, Rock en español, Dub",
+  "year": 2006,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632941"
+  },
+  "title": "Bendita tu luz",
+  "artist": "Mana",
+  "style": "Rock, Pop rock, Rock latino, Rock en español, Dub",
+  "year": 2006,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632942"
+  },
+  "title": "Firt Date",
+  "artist": "Blink-182",
+  "style": "Punk, Pop punk, Rock alternativo",
+  "year": 2001,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632943"
+  },
+  "title": "The Rock Show",
+  "artist": "Blink-182",
+  "style": "Punk, Pop punk, Rock alternativo",
+  "year": 2001,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632944"
+  },
+  "title": "Stay Together For The Kids",
+  "artist": "Blink-182",
+  "style": "Punk, Pop punk, Rock alternativo",
+  "year": 2001,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632945"
+  },
+  "title": "Californication",
+  "artist": "The Red Hot Chili Peppers",
+  "style": "Rock alternativo, Funk rock",
+  "year": 1997,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632946"
+  },
+  "title": "Otherside",
+  "artist": "The Red Hot Chili Peppers",
+  "style": "Rock alternativo, Funk rock",
+  "year": 1997,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c29f4d7ddf01e2a8632947"
+  },
+  "title": "Scar Tissue",
+  "artist": "The Red Hot Chili Peppers",
+  "style": "Rock alternativo, Funk rock",
+  "year": 1997,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c325842e9c3a4aa8f505d3"
+  },
+  "title": "titulo",
+  "artist": "artista",
+  "style": "estilo",
+  "year": 2000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c326e07ab7c29369559af6"
+  },
+  "title": "sadasd",
+  "artist": "sdfsfs",
+  "style": "sdfsf",
+  "year": 2001,
+  "__v": 0
+}]
